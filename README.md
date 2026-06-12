@@ -1,8 +1,8 @@
-# Экспериментальная актуализация сравнения Big Data движков: Hive-on-Tez vs Apache Spark
+# Экспериментальная актуализация сравнения фреймворков пакетной обработки больших данных
 
 ## Видеопрезентация
 
-<video src="Видеопрезентация.mp4" width="600" controls></video>
+<video src="https://github.com/user-attachments/assets/b414ac9c-d5f7-4cc7-b8c6-e7d13cbfbb59" width="600" controls></video>
 
 ## Аннотация
 
